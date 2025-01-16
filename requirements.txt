@@ -1,8 +1,4 @@
 streamlit 
 PyPDF2
-re
-WordCloud
+wordcloud
 matplotlib.pyplot 
-stopwords
-nltk
--e .
