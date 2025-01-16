@@ -5,3 +5,4 @@ WordCloud
 matplotlib.pyplot 
 stopwords
 nltk
+-e .
