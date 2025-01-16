@@ -7,6 +7,8 @@ from nltk.corpus import stopwords
 import nltk
 
 # Download NLTK stopwords
+nltk.download('punkt')
+nltk.download('punkt_tab')
 nltk.download('stopwords')
 stops = set(stopwords.words('english'))
 
